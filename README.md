@@ -1,6 +1,6 @@
 # [Sentinel](https://deez.uk/sentinel)
 
-https://files.deez.uk/Sentinel.png
+<img src="https://files.deez.uk/Sentinel.png">
 
 Sentinel Client
 SENTINEL CLIENT
